@@ -10,7 +10,7 @@ Original file is located at
 # Commented out IPython magic to ensure Python compatibility.
 # %%capture
 # # Core CLI + utilities
-# !pip install -q isic-cli scikit-learn tqdm cupy-cuda12x
+!pip install -q isic-cli scikit-learn tqdm cupy-cuda12x
 #
 
 !pip install -q torch torchvision torchaudio
