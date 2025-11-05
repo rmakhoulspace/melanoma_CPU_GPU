@@ -87,6 +87,3 @@ Same CNN as in the GPU pipeline, but trained on CPU.
 
 The script prints both classification metrics and total runtime for each pipeline, so you can compare CPU vs GPU.
 
-Running the Script
-
-From the repo root:
