@@ -36,9 +36,9 @@ Python packages (minimal):
 - `Pillow`
 - `isic-cli`
 
-Example install (adjust `cupy-…` as needed):
+Example install:
 
-```bash
+
 pip install torch torchvision scikit-learn tqdm pillow isic-cli cupy-cuda12x
 
 You also need:
@@ -63,9 +63,9 @@ The script splits images into:
 
 dataset/train/<class>
 
-dataset/val/<class>
+dataset/val/
 
-dataset/test/<class>
+dataset/test/
 
 Parallel pipeline (GPU)
 
